@@ -1,0 +1,74 @@
+{
+  "kpi": {
+    "totalLeads": 5000,
+    "pctClient": 12.3,
+    "pctSQL": 31.7,
+    "ctr": 2.43,
+    "cpl": 9.35,
+    "cpa": 23.74
+  },
+  "charts": {
+    "leadsByChannel": [
+      {
+        "channel": "Facebook Ads",
+        "leads": 1461
+      },
+      {
+        "channel": "Emailing",
+        "leads": 1428
+      },
+      {
+        "channel": "Instagram Ads",
+        "leads": 1189
+      },
+      {
+        "channel": "LinkedIn",
+        "leads": 922
+      }
+    ],
+    "statusByChannel": [
+      {
+        "channel": "Emailing",
+        "Client": 0.12815126050420167,
+        "MQL": 0.5742296918767507,
+        "SQL": 0.2976190476190476
+      },
+      {
+        "channel": "Facebook Ads",
+        "Client": 0.11704312114989733,
+        "MQL": 0.5763175906913073,
+        "SQL": 0.3066392881587953
+      },
+      {
+        "channel": "Instagram Ads",
+        "Client": 0.10933557611438183,
+        "MQL": 0.5786375105130361,
+        "SQL": 0.312026913372582
+      },
+      {
+        "channel": "LinkedIn",
+        "Client": 0.1399132321041215,
+        "MQL": 0.4924078091106291,
+        "SQL": 0.3676789587852495
+      }
+    ],
+    "cplByChannel": [
+      {
+        "channel": "LinkedIn",
+        "cpl": 23.783080260303688
+      },
+      {
+        "channel": "Instagram Ads",
+        "cpl": 6.529857022708158
+      },
+      {
+        "channel": "Facebook Ads",
+        "cpl": 6.413415468856948
+      },
+      {
+        "channel": "Emailing",
+        "cpl": 5.377450980392157
+      }
+    ]
+  }
+}
